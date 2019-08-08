@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.logwin.gallery",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "monolith",
+    "baseName": "gallery",
+    "packageName": "com.logwin.gallery",
+    "packageFolder": "com/logwin/gallery",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NWY5NTNkZTBlMjgzMTMyODFkMzRlYTVhNWVjMTZhMTc1MzZlMTgxNDVlY2E4NGE2ZjljNWM3ZWI0NWU3NDM4MzM0OTMxMjAzYjJkMzlkNmUzMjg1ZjQyYTc2MTQ2NWQwODJhMGJjMTE0YjczNjJiNDJkZDQ1ODE2ZjkzODUwY2E=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "cerulean",
+    "clientThemeVariant": "primary",
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "fr", "de", "hi", "it"],
+    "blueprints": []
+  }
+}
